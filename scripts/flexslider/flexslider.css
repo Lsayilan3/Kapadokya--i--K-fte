@@ -132,7 +132,6 @@ html[xmlns] .flexslider .slides {
 }
 
 .flex-direction-nav {
-    *
     height: 0;
 }
 
@@ -425,7 +424,7 @@ html[xmlns] .flexslider .slides {
 
 .flexslider.outer-navs a.flex-prev {
     transform: translateX(-100px);
-    width: 50px;
+    width: 5z0px;
     background: none;
     box-shadow: none;
 }

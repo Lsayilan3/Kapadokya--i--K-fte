@@ -1839,8 +1839,8 @@ a.thumbnail {
 }
 
 .flex-control-paging li a {
-    width: 9px;
-    height: 9px !important;
+    width: 15px;
+    height: 15px !important;
     background: none;
     border: 1px solid black;
 }
